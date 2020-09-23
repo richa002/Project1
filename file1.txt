@@ -1,0 +1,2 @@
+Learning devops 
+Learning git is challenging
